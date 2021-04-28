@@ -1,0 +1,2 @@
+# mynewproject-Gitexe
+Git example 
